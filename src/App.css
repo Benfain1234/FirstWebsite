@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  
+
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+
+h2{
+  @import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+    font-family: 'Style Script', cursive;
+color: black;
+  border: 5px inset coral;
+  display: inline-block;
+  background-color: #B0C4DE;
+  border-radius: 20px;
+}
+
+
+
+
+
+
